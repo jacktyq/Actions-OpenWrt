@@ -9,4 +9,5 @@
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
 git clone https://github.com/jerrykuku/lua-maxminddb package/helloworld/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr package/helloworld/luci-app-vssr
+git clone https://github.com/jacktyq/luci-app-smartdns package/luci-app-smartdns
 sed -i 's/192.168.1.1/192.168.1.101/g' package/base-files/files/bin/config_generate
